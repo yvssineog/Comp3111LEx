@@ -10,4 +10,4 @@ Below is a screenshot of my IntelliJ project with Project, Editor, and Git Log w
 - 
 ## IntelliJ Screenshot
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](../../../screenshot.png)
